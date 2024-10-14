@@ -1,4 +1,6 @@
- Hi there! 👋 Welcome to my GitHub Profile!
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ChristophFuchsGit.visitor-badge)
+
+Hi there! 👋 Welcome to my GitHub Profile!
 
 I'm **Christoph**, a passionate developer and tech enthusiast. I love working on exciting projects, learning new technologies, and contributing to open-source.
 
