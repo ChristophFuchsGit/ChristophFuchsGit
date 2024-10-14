@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ChristophFuchsGit.visitor-badge)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ChristophFuchsGit.visitor-badge">
 
 Hi there! 👋 Welcome to my GitHub Profile!
 
